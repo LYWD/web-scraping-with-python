@@ -87,7 +87,7 @@ list1 = []
 list2 = []
 list3 = []
 list4 = []
-
+###更改深度
 for i in range(depth):
     ###更改不同结尾乱码
     strings1='https://exhibitors.bau-muenchen.com/en/exhibitor-details/exhibitors-brand-names/action/defaultlist/controller/Exhibitors/letter/'+letter+'/xoffset/'
